@@ -8,7 +8,7 @@ import {
 
 import MyForm from './MyForm'
 import Props from './Props'
-import Navba from './Navba'
+
 import {Nav} from 'react-bootstrap';
 
 
