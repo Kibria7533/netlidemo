@@ -22,7 +22,7 @@ function App() {
 >
   
   <Nav.Item>
-    <Link to="/" >Home</Link>
+    <Link to="/" >HomeChange</Link>
   </Nav.Item>
   <Nav.Item>
     <Link to="/home">
